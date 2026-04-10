@@ -1,0 +1,59 @@
+{
+  "id": "69d7ada7856a68218915d86a",
+  "record": {
+    "data": [
+      {
+        "pnr": "PNR001",
+        "passengerName": "Ali Khan",
+        "flightNumber": "EK202",
+        "departureCity": "Dubai",
+        "arrivalCity": "London",
+        "departureTime": "2026-04-15T08:30:00Z",
+        "arrivalTime": "2026-04-15T14:30:00Z",
+        "status": "CONFIRMED"
+      },
+      {
+        "pnr": "PNR002",
+        "passengerName": "Sara Ahmed",
+        "flightNumber": "QR101",
+        "departureCity": "Doha",
+        "arrivalCity": "Paris",
+        "departureTime": "2026-04-16T10:00:00Z",
+        "status": "CANCELLED"
+      },
+      {
+        "pnr": "PNR004",
+        "passengerName": "Fatima Noor",
+        "departureCity": "Lahore",
+        "arrivalCity": "Dubai",
+        "departureTime": "2026-04-20T06:00:00Z",
+        "arrivalTime": "2026-04-20T08:30:00Z",
+        "status": "PENDING"
+      },
+      {
+        "pnr": "PNR006",
+        "passengerName": "Ayesha Malik",
+        "flightNumber": "PK303",
+        "departureCity": "Karachi",
+        "arrivalCity": "Dubai",
+        "departureTime": "2026-04-21T09:00:00Z",
+        "arrivalTime": "2026-04-21T11:30:00Z"
+      },
+      {
+        "pnr": "PNR010",
+        "passengerName": "Omar Hassan",
+        "flightNumber": "MS910",
+        "departureCity": "Cairo",
+        "arrivalCity": "Dubai",
+        "arrivalTime": "2026-04-26T05:00:00Z",
+        "status": "CANCELLED"
+      }
+    ]
+  },
+  "metadata": {
+    "name": "trips",
+    "readCountRemaining": 88,
+    "timeToExpire": 29428,
+    "createdAt": "2026-04-09T13:46:15.631Z"
+  }
+}
